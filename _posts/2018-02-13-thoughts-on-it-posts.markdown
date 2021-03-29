@@ -4,7 +4,7 @@ title:  "对 IT 技术岗位的一点思考 Thoughts on IT posts"
 date:   2018-02-13
 categories: architect
 ---
-> 本文写于 2018 年初，由于 [dev.to](https://dev.to/fangdajiang/-it--thoughts-on-it-posts--1199) 对中文的支持糟糕，一旦编辑则乱码，故挪到这里
+> 本文于 2018 年初发布于 [dev.to](https://dev.to/fangdajiang/-it--thoughts-on-it-posts--1199) ，因其对中文的糟糕支持，一旦编辑则乱码，故挪到这里
 
 在一个提供软件产品或互联网服务的公司，通过在技术部门对不同工作设置相应岗位，尝试让技术团队发挥出最大效能（出工）的同时创造出最大价值（出活）。
 In a company which provides software products or Internet services, we set different IT positions according to various jobs in the technical department, try to build an efficient and effective team and ultimately output the most valuable things.

@@ -1,7 +1,7 @@
 # Site settings
 title: 貓先生文集
 SEOTitle: 貓先生文集 | Mr. Cat
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-jackson-pollock.jpg
 email: fang.dajiang@gmail.com
 description: "貓先生嘗試理解這個世界。"
 keyword: "貓先生"
@@ -12,15 +12,10 @@ github_repo: "https://github.com/fangdajiang/fangdajiang.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "耶稣说：“复活在我，生命也在我！信我的人，虽然死了，也必复活。凡活着信我的人，必永远不死。你信这话吗？”"
-sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/a_typical_evening.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
-# weibo_username:     暂无
-zhihu_username:     暂无
-github_username:    暂无
-facebook_username:  暂无
-jianshu_username:   暂无
 twitter_username: fangdajiang
 github_username:  fangdajiang
 
@@ -97,7 +92,7 @@ friends: [
         href: "https://fangdajiang.wordpress.com/"
     },{
         title: "Dev.to",
-        href: "dev.to/fangdajiang/"
+        href: "https://dev.to/fangdajiang/"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
