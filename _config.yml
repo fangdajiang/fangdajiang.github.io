@@ -93,8 +93,5 @@ friends: [
     },{
         title: "Dev.to",
         href: "https://dev.to/fangdajiang/"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
     }
 ]
