@@ -2,7 +2,7 @@
 layout: post
 title:  "当我们谈论“远程协作”时，我们在谈论什么"
 date:   2021-11-15
-categories: cloud native
+categories: cloud native, 硬广
 ---
 > 村上春树这个句式很有点意思，似乎总想引发人挖掘一句话更深层的含义。
 
