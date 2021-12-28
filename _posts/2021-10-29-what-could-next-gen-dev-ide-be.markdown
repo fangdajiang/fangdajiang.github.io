@@ -2,7 +2,7 @@
 layout: post
 title:  【硬广】下一代软件开发模式（可能）是啥样的？
 date:   2021-10-29
-categories: cloud native, 硬广
+categories: cloud native
 ---
 > DCS: Development Compute Service, 可共享的开发环境。
 
