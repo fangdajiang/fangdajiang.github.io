@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "TeamCode 和 TIN"
+title:  【硬广】TeamCode 和 TIN
 date:   2021-10-09
-categories: cloud native, 硬广
+categories: cloud native
 ---
 > TIN: Try It Now, 快速实现从代码到应用服务的 TeamCode 产品。
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "当我们谈论“远程协作”时，我们在谈论什么"
+title:  【硬广】当我们谈论“远程协作”时，我们在谈论什么
 date:   2021-11-15
 categories: cloud native, 硬广
 ---
